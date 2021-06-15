@@ -4,7 +4,7 @@
 
 
  <h3>Check it out</h3>
-    Link: https://kanishths.github.io/Wurfelzocken/
+    Link: https://forkify-kanishth.netlify.app/
     <br>    
     
  <h3>Tech Used: </h3>
